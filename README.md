@@ -1,1 +1,1 @@
-# LearningKubernetes
+# Learning Kubernetes
